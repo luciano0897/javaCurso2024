@@ -42,7 +42,7 @@ public class SortearPessoa {
 			sc.close();
 		}
 
-		
+		 //kjhkjhkljhljhljhkjlhkjlhkjlhljhlj
 //		teste
 	}
 }
