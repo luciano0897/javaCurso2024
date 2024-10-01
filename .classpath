@@ -15,5 +15,9 @@
 	<classpathentry kind="src" path="repetições"/>
 	<classpathentry kind="src" path="Calculadoras"/>
 	<classpathentry kind="src" path="strings"/>
+	<classpathentry kind="src" path="Classes"/>
+	<classpathentry kind="src" path="classes-01"/>
+	<classpathentry kind="src" path="cesar"/>
+	<classpathentry kind="src" path="listas"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
