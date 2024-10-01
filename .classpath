@@ -19,5 +19,6 @@
 	<classpathentry kind="src" path="classes-01"/>
 	<classpathentry kind="src" path="cesar"/>
 	<classpathentry kind="src" path="listas"/>
+	<classpathentry kind="src" path="teste"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
