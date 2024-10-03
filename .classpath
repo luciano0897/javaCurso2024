@@ -20,5 +20,8 @@
 	<classpathentry kind="src" path="cesar"/>
 	<classpathentry kind="src" path="listas"/>
 	<classpathentry kind="src" path="teste"/>
+	<classpathentry kind="src" path="teste de peso"/>
+	<classpathentry kind="src" path="Polimorfismo"/>
+	<classpathentry kind="src" path="herança"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
